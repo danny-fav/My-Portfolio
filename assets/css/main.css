@@ -685,6 +685,7 @@ section,
   display: flex;
   align-items: center;
   justify-content: center;
+  background: #e9e8e6;
 }
 
 @media (max-width: 1200px) {
